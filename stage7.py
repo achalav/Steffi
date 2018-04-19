@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#Learn how this works here: http://youtu.be/pxofwuWTs7c
 
 import urllib2
 import json
